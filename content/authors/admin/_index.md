@@ -1,6 +1,6 @@
 ---
 # Display name
-title: scar Barriga-Cabanillas
+title: Oscar Barriga-Cabanillas
 
 # Username (this should match the folder name)
 authors:
