@@ -2,8 +2,8 @@
 title: "An example conference paper"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Haiti: Airtime vendor
+date: "2018-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,12 +17,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Algorithmic insights from individual meta data have enabled a proliferation of mobile financial services to cellphone users in markets where information asymmetries and high provision costs tend to deter formal lenders. As the first such financial product typically offered to new users, airtime loans provide prepaid customers small airtime advances when they are unable to recharge their accounts. Relying on rich administrative data from a mobile network operator in Haiti, we study the impact of airtime loans on consumer's expenditure and network behavior. We find that access to loans increases total expenditure by 16%, which represents a crowding-in of new communication expenditure well beyond the fees associated with the loan. This expenditure response to airtime loans is distinctly heterogeneous. Poorer customers in the lowest tercile of initial expenditure more than double their mobile communication spending when airtime loans become available, while access to loans leaves expenditure of the highest tercile unchanged. These pronounced differences in the expenditure impacts of airtime loans exist despite relatively uniform patterns of loan usages between the poor and non-poor. We find suggestive evidence that these differences are driven by distinct motivations for requesting airtime loans: Poorer customers appear to use loans to relax liquidity constraints at critical communication times whereas non-poor customers primarily use these loans for convenience, as it given them more discretion in when to visit airtime vendors.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Algorithmic insights from individual meta data have enabled a proliferation of mobile financial services to cellphone users in markets where information asymmetries and high provision costs tend to deter formal lenders. As the first such financial product typically offered to new users, airtime loans provide prepaid customers small airtime advances when they are unable to recharge their accounts. Relying on rich administrative data from a mobile network operator in Haiti, we study the impact of airtime loans on consumer's expenditure and network behavior. We find that access to loans increases total expenditure by 16\%, which represents a crowding-in of new communication expenditure well beyond the fees associated with the loan. This expenditure response to airtime loans is distinctly heterogeneous. Poorer customers in the lowest tercile of initial expenditure more than double their mobile communication spending when airtime loans become available, while access to loans leaves expenditure of the highest tercile unchanged. These pronounced differences in the expenditure impacts of airtime loans exist despite relatively uniform patterns of loan usages between the poor and non-poor. We find suggestive evidence that these differences are driven by distinct motivations for requesting airtime loans: Poorer customers appear to use loans to relax liquidity constraints at critical communication times whereas non-poor customers primarily use these loans for convenience, as it given them more discretion in when to visit airtime vendors.
 
 tags:
 - Source Themes
@@ -32,13 +32,13 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
