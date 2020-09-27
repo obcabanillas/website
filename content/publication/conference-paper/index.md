@@ -24,10 +24,10 @@ abstract: Algorithmic insights from individual meta data have enabled a prolifer
 # Summary. An optional shortened abstract.
 
 #summary: ppp
-#<details>
-<summary>summary: asda </summary>
+<details>
+#<summary>summary: asda </summary>
 summary:Algorithmic insights from individual meta data have enabled a proliferation of mobile financial services to cellphone users in markets where information asymmetries and high provision costs tend to deter formal lenders. As the first such financial product typically offered to new users, airtime loans provide prepaid customers small airtime advances when they are unable to r
-#</details>
+</details>
 
 tags:
 - Source Themes
