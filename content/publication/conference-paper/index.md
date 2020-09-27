@@ -3,7 +3,7 @@ title: "Loans, Liquidity and Convenience: Heterogeneous Impacts of Mobile Airtim
 authors:
 - admin
 - Haiti: Airtime vendor
-date: "2018-06-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,21 +16,21 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
+publication: Airtime vendor, June 2018
 publication_short: ""
 
-abstract: Algorithmic insights from individual meta data have enabled a proliferation of mobile financial services to cellphone users in markets where information asymmetries and high provision costs tend to deter formal lenders. 
+abstract: Algorithmic insights from individual meta data have enabled a proliferation of mobile financial services to cellphone users in markets where information asymmetries and high provision costs tend to deter formal lenders. As the first such financial product typically offered to new users, airtime loans provide prepaid customers small airtime advances when they are unable to recharge their accounts. Relying on rich administrative data from a mobile network operator in Haiti, we study the impact of airtime loans on consumer's expenditure and network behavior. We find that access to loans increases total expenditure by 16 percent, which represents a crowding-in of new communication expenditure well beyond the fees associated with the loan. This expenditure response to airtime loans is distinctly heterogeneous. Poorer customers in the lowest tercile of initial expenditure more than double their mobile communication spending when airtime loans become available, while access to loans leaves expenditure of the highest tercile unchanged. These pronounced differences in the expenditure impacts of airtime loans exist despite relatively uniform patterns of loan usages between the poor and non-poor. We find suggestive evidence that these differences are driven by distinct motivations for requesting airtime loans: Poorer customers appear to use loans to relax liquidity constraints at critical communication times whereas non-poor customers primarily use these loans for convenience, as it given them more discretion in when to visit airtime vendors.
 
 # Summary. An optional shortened abstract.
-summary: Algorithmic insights from individual meta data have enabled a proliferation of mobile financial services to cellphone users in markets where information asymmetries and high provision costs tend to deter formal lenders. 
+summary: Algorithmic insights from individual meta data have enabled a proliferation of mobile financial services to cellphone users in markets where information asymmetries and high provision costs tend to deter formal lenders. As the first such financial product typically offered to new users, airtime loans provide prepaid customers small airtime advances when they are unable to recharge their accounts. Relying on rich administrative data from a mobile network operator in Haiti, we study the impact of airtime loans on consumer's expenditure and network behavior. We find that access to loans increases total expenditure by 16 percent, which represents a crowding-in of new communication expenditure well beyond the fees associated with the loan. This expenditure response to airtime loans is distinctly heterogeneous. Poorer customers in the lowest tercile of initial expenditure more than double their mobile communication spending when airtime loans become available, while access to loans leaves expenditure of the highest tercile unchanged. These pronounced differences in the expenditure impacts of airtime loans exist despite relatively uniform patterns of loan usages between the poor and non-poor. We find suggestive evidence that these differences are driven by distinct motivations for requesting airtime loans: Poorer customers appear to use loans to relax liquidity constraints at critical communication times whereas non-poor customers primarily use these loans for convenience, as it given them more discretion in when to visit airtime vendors.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: Custom Link
+#  url: http://example.org
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: ''
 url_dataset: ''
@@ -63,9 +63,9 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+#{{% alert note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /alert %}}
 
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
