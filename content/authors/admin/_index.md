@@ -22,7 +22,7 @@ bio: My research interests include
 
 interests:
 - Development Economics
-- Poverty and inequality, with an emphazis on remote sensing
+- Poverty and inequality, with an emphasis on remote sensing
 
 
 education:
@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: CV_OscarBarrigaCabanillas.pdf
+  link: https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf
 
 
 
