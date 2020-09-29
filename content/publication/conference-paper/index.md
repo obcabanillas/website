@@ -5,6 +5,8 @@ authors:
 - Ubiquitous Airtime vendor, Haiti
 #date: ""
 doi: ""
+## SELECTED PUBLICATION
+selected = true
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
