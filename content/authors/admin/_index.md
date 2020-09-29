@@ -82,6 +82,6 @@ In my job market paper
 I hold an M.A. in Economics from the University of Los Andes (Colombia). Before coming to Davis, I worked at the World Bank, and Colombia's National Planning Department.
 
 <body>
-<img src="/images/download_icon.png" alt="" width="104" height="142"> Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé</a>
+<img src="/images/download_icon.png" alt="" width="24" height="24"> Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé</a>
 
 </body>
