@@ -2,8 +2,8 @@
 title: "Loans, Liquidity and Convenience: Heterogeneous Impacts of Mobile Airtime Loans on Communication Expenditure"
 authors: 
 #- admin
-- Ubiquitous Airtime vendor, Haiti (June 2018)
-date: "2012-01-01"
+- Ubiquitous Airtime vendor, Haiti 
+date: "2018-06-01"
 doi: ""
 ## SELECTED PUBLICATION
 selected : false
