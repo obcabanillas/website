@@ -4,8 +4,8 @@ authors:
 - admin
 - Tjernstrom, Ghanem, Lybbert, Michler, Michuda
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- ""
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -44,8 +44,9 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
+#caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
   preview_only: false
 
