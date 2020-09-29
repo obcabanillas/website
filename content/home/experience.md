@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Experience"
+title = "Professional Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "The World Bank"
+  company = ""
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Washington, DC"
+  date_start = "2012"
+  date_end = "2014"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Analysing data and poverty household data for the Latin American region
+  * Modelling trends of socioeconomic indicators
+  * Deploying a system for data quality and replicability of indicators
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "National Planning Department"
+  company = ""
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Colombia"
+  date_start = "2013"
+  date_end = "2012"
+  description = """Developed an plan for the integration of Colombia's western plains with the national economy, identifying infrastructure constrains"""
 
 +++
