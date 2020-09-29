@@ -58,9 +58,9 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 
 
@@ -81,3 +81,16 @@ My main research include
 In my job market paper 
 I hold an M.A. in Economics from the University of Los Andes (Colombia). Before coming to Davis, I worked at the World Bank, and Colombia's National Planning Department.
 
+<body>
+
+<p>Click on the w3schools logo to download the image:<p>
+
+<a href="/images/myw3schoolsimage.jpg" download="w3logo">
+  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools" width="104" height="142">
+</a>
+
+<p>Notice that the filename of the downloaded file will be saved as "w3logo.jpg" instead of "myw3schoolsimage.jpg".</p>
+
+<p><b>Note:</b> The download attribute is not supported in Edge version 12, IE, Safari 10 (and earlier), or Opera version 12 (and earlier).</p>
+
+</body>
