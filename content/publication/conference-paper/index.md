@@ -6,7 +6,7 @@ authors:
 #date: ""
 doi: ""
 ## SELECTED PUBLICATION
-selected = true
+selected : true
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
