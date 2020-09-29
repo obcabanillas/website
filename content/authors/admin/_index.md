@@ -83,7 +83,7 @@ I hold an M.A. in Economics from the University of Los Andes (Colombia). Before 
 
 <body>
 
-<a href="/images/myw3schoolsimage.jpg" download="w3logo">  <img src="/images/myw3schoolsimage.jpg" alt="Resumé" width="104" height="142">
+<a href="/images/myw3schoolsimage.jpg" download="w3logo">  Download my <img src="/images/myw3schoolsimage.jpg" alt="Resumé" width="104" height="142">
 </a>
 
 </body>
