@@ -7,23 +7,25 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "teaching"
-subtitle = ""
+title = "Teaching"
+subtitle = "University of California, Davis"
 
 # Order that this section will appear in.
 weight = 60
 
 +++
 
-**University of Pittsburgh**
+**Main Instructor**
 
-- Comparative Identity Politics (Fall 2020, Graduate Seminar)
-- Coding and Computational Social Science (Spring 2020, Undergraduate Lecture)
-- Introduction to African Politics (Fall 2019, Undergraduate Lecture)
-- Capstone on Comparative Politics: Democratic Erosion (Fall 2019, Undergraduate Seminar)
+- Development Economics (Winter 2017)
 
-**University of California, Berkeley**
+**Teaching Assistant**
 
-- Outstanding Graduate Student Instructor Award
-- PS2 Introduction to Comparative Politics (undergraduate lecture) 
-- PS146A African Politics (undergraduate lecture) 
+- Econometrics (Graduate, Spring 2017)
+- Development Economics (Undergraduate, 2016)
+- Econometrics (Undergraduate, Winter 2015)
+
+**Other Teaching**
+
+- BITSS: Research Transparency and Reproducibility Training (April 2018)
+- Experimental Economics Workshop: Transparency and Replicability (January, 2019)
