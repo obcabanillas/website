@@ -9,18 +9,18 @@
   weight = 10
 
 [[main]]
-  name = "Dissertation"
+  name = "Job Market Paper"
   url = "#featured"
   weight = 20
   
 [[main]]
   name = "Working papers"
-  url = "#posts"
+  url = "#publication"
   weight = 30
 
 [[main]]
   name = "Teaching"
-  url = "#projects"
+  url = "#teaching"
   weight = 40
 
 
