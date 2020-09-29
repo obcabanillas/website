@@ -2,8 +2,8 @@
 title: "Loans, Liquidity and Convenience: Heterogeneous Impacts of Mobile Airtime Loans on Communication Expenditure"
 authors: 
 #- admin
-- Ubiquitous Airtime vendor, Haiti
-#date: ""
+- Ubiquitous Airtime vendor, Haiti (June 2018)
+date: ""
 doi: ""
 ## SELECTED PUBLICATION
 selected : false
@@ -18,7 +18,7 @@ selected : false
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Airtime vendor, June 2018
+publication: ""
 publication_short: ""
 
 abstract: Algorithmic insights from individual meta data have enabled a proliferation of mobile financial services to cellphone users in markets where information asymmetries and high provision costs tend to deter formal lenders. As the first such financial product typically offered to new users, airtime loans provide prepaid customers small airtime advances when they are unable to recharge their accounts. Relying on rich administrative data from a mobile network operator in Haiti, we study the impact of airtime loans on consumer's expenditure and network behavior. We find that access to loans increases total expenditure by 16%, which represents a crowding-in of new communication expenditure well beyond the fees associated with the loan. This expenditure response to airtime loans is distinctly heterogeneous. Poorer customers in the lowest tercile of initial expenditure more than double their mobile communication spending when airtime loans become available, while access to loans leaves expenditure of the highest tercile unchanged. These pronounced differences in the expenditure impacts of airtime loans exist despite relatively uniform patterns of loan usages between the poor and non-poor. We find suggestive evidence that these differences are driven by distinct motivations for requesting airtime loans":" Poorer customers appear to use loans to relax liquidity constraints at critical communication times whereas non-poor customers primarily use these loans for convenience, as it given them more discretion in when to visit airtime vendors.
