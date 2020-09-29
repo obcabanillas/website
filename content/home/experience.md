@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = "Washington, DC"
-  date_start = "2012"
-  date_end = "2014"
+  date_start = "2012-09-01"
+  date_end = "2014-06-01"
   description = """
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = "Colombia"
-  date_start = "2013"
-  date_end = "2012"
+  date_start = "2011-01-01"
+  date_end = "2019-08-31"
   description = """Developed an plan for the integration of Colombia's western plains with the national economy, identifying infrastructure constrains"""
 
 +++
