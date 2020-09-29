@@ -3,7 +3,7 @@ title: "Loans, Liquidity and Convenience: Heterogeneous Impacts of Mobile Airtim
 authors: 
 #- admin
 - Ubiquitous Airtime vendor, Haiti (June 2018)
-date: ""
+date: "2012-01-01"
 doi: ""
 ## SELECTED PUBLICATION
 selected : false
