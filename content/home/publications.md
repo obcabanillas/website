@@ -76,6 +76,10 @@ subtitle = ""
 <html>
 <head>
 <style>
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
 details > summary::-webkit-details-marker {
   display: none;
 }
@@ -120,7 +124,7 @@ test PDF LINK
 
 
 <details>  
-<strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm"  target="_self"  rel="noopener"> <summary>  abstract  </summary>  </a>
+<strong strong style="color:royalblue"> <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" >  abstract  </summary> 
 <br/>
 test PDF LINK  
 </details>
