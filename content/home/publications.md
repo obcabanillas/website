@@ -112,12 +112,19 @@ test PDF LINK
 </details>
 
 <details>  
-<strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm"  target="_blank"  rel="noopener"> <summary> abstract </a> </summary> 
+<summary>  <strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm"  target="_self"  rel="noopener"> abstract </a> </summary> 
 <br/>
 test PDF LINK  
 </details>
 
 
+
+<details>  
+<strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm"  target="_self"  rel="noopener"> <summary>  abstract  </summary>  </a>
+<br/>
+test PDF LINK  
+</details>
+  
 </div>
 
 
