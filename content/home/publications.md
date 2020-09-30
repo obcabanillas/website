@@ -103,14 +103,15 @@ details > summary::-webkit-details-marker {
   <p>    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>
 
 
-<details>
-  
+<details>  
+
 <summary> <strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener"> abstract </a> <br/>
 </summary>
 <br/>
 test PDF LINK  
 </details>
 
+<details>  
 <summary> <strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm"  target="_blank" rel="noopener"> abstract </a> <br/>
 </summary>
 <br/>
