@@ -39,21 +39,14 @@ date_format = "Jan 2006"
 <div class="row">
   </div>
   <div class="col-12 col-lg-8">
-
-   
+  
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  <span class="article-metadata li-cite-author">
-  <span>Donghyun Danny Choi</span> , <span>Mathias Poertner</span>, <span>Nicholas Sambanis</span>
-  </span>
+  <span class="article-metadata li-cite-author">  <span>Donghyun Danny Choi</span> , <span>Mathias Poertner</span>, <span>Nicholas Sambanis</span>  </span>
   (2020).
   <a href="/publication/language/">
   "&#8203;&#8203;&#8203;Linguistic Assimilation Does Not Reduce Discrimination Against Immigrants: Evidence from Germany"</a>.
   Forthcoming at <em>Journal of Experimental Political Science</em>.
   
-  <p>
-    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">
-  PDF
-</a>
+  <p>    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>
 
 </div>
