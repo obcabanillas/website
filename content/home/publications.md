@@ -81,6 +81,8 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
+#element1 {display:inline-block;margin-right:10px; width:200px; background-color:red;} 
+#element2 {display:inline-block; width:200px; background-color:red;} 
 
 </style>
 </head>
