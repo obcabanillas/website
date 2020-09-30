@@ -87,11 +87,7 @@ details > summary::-webkit-details-marker {
 <body>
 
 
-<div class="container">
-      
-details > summary::-webkit-details-marker {
-  display: none;
-}
+
 <div class="row">
   </div>
   
