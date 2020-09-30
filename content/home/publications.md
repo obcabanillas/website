@@ -107,32 +107,21 @@ details > summary::-webkit-details-marker {
 
 <details>  
 
-<summary> <strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener"> abstract </a> <br/>
-</summary>
-<br/>
-test PDF LINK  
-</details>
-
-<details>  
-<summary>  <strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm"  target="_self"  rel="noopener"> abstract </a> </summary> 
-<br/>
-test PDF LINK  
-</details>
-
-
-
-<details>  
-<summary class="btn btn-outline-primary my-1 mr-1 btn-sm" > <strong strong style="color:royalblue">  abstract  </summary> 
-<br/>
-test PDF LINK  
-</details>
  
- <details>  
+<details>  
 <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" >  abstract  </summary> 
 <br/>
 test PDF LINK  
 </details>
   
+  
+<details>  
+<summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary> 
+<br/>
+test PDF LINK  
+</details>
+
+
 </div>
 
 
