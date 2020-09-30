@@ -81,8 +81,6 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-#element1 {display:inline-block;margin-right:10px; width:200px; background-color:red;} 
-#element2 {display:inline-block; width:200px; background-color:red;} 
 
 </style>
 </head>
@@ -130,17 +128,11 @@ details > summary::-webkit-details-marker {
 </table> 
 
 
-<div id="element1">
-  <details>  
-    <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary>  
-    <br/>
-    test PDF LINK  
-  </details>
-</div> 
+<div>
+    <p><details> <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary>  <br/>  test PDF LINK  </details></p>
+    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>  
+</div>
 
-<div id="element2"> 
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>   
-</div> 
 
 </div>
 
