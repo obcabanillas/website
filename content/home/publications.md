@@ -124,7 +124,7 @@ test PDF LINK
 
 
 <details>  
-<strong strong style="color:royalblue"> <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" >  abstract  </summary> 
+<summary class="btn btn-outline-primary my-1 mr-1 btn-sm" > <strong strong style="color:royalblue">  abstract  </summary> 
 <br/>
 test PDF LINK  
 </details>
