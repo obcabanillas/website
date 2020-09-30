@@ -49,3 +49,77 @@ date_format = "Jan 2006"
   description = ""
 
 +++
+
+
+
+
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span >Donghyun Danny Choi</span>, <span >Mathias Poertner</span>, <span >Nicholas Sambanis</span>
+  </span>
+  (2019).
+  <a href="/publication/parochialism/">Parochialism, Social Norms, and Discrimination against Immigrants</a>.
+  <em>Proceedings of the National Academy of Sciences</em> 116(33), 16274-16279.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/is7w2qg9fg14aez/CPS_2019_Final.pdf?dl=0" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/ggmyvi7i0z00kg7/intervention.mp4?dl=0" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1073/pnas.1820146116" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
