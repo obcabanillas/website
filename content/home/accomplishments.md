@@ -52,13 +52,124 @@ date_format = "Jan 2006"
 
 
 
+<div class="container">
+      
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Publications</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
 
   <span class="article-metadata li-cite-author">
     
 
   
-  <span >Donghyun Danny Choi</span>, <span >Mathias Poertner</span>, <span >Nicholas Sambanis</span>
+  <span>Donghyun Danny Choi</span>, <span>Mathias Poertner</span>, <span>Nicholas Sambanis</span>
+  </span>
+  (2020).
+  <a href="/publication/language/">​​​Linguistic Assimilation Does Not Reduce Discrimination Against Immigrants: Evidence from Germany</a>.
+  Forthcoming at <em>Journal of Experimental Political Science</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/https://doi.org/10.1017/XPS.2020.20" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Donghyun Danny Choi</span>, <span>Mathias Poertner</span>, <span>Nicholas Sambanis</span>
   </span>
   (2019).
   <a href="/publication/parochialism/">Parochialism, Social Norms, and Discrimination against Immigrants</a>.
@@ -123,3 +234,68 @@ date_format = "Jan 2006"
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Chris Krogslund</span>, <span>Donghyun Danny Choi</span>, <span>Mathias Poertner</span>
+  </span>
+  (2015).
+  <a href="/publication/fuzzyset/">Fuzzy Sets on Shaky Ground: Parameter Sensitivity and Confirmation Bias in fsQCA</a>.
+  <em>Political Analysis</em> 23(1), 21-41.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.cambridge.org/core/journals/political-analysis/article/fuzzy-sets-on-shaky-ground-parameter-sensitivity-and-confirmation-bias-in-fsqca/B693F136C5158DF3C19686EC89522C23" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org//10.1093/pan/mpu016" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+      
+    
+
+  
+
+  </div>
+</div>
+
+    </div>
