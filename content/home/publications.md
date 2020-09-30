@@ -128,6 +128,18 @@ details > summary::-webkit-details-marker {
 </table> 
 
 
+<div id="element1">
+  <details>  
+    <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary>  
+    <br/>
+    test PDF LINK  
+  </details>
+</div> 
+
+<div id="element2"> 
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>   
+</div> 
+
 </div>
 
 
