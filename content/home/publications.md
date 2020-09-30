@@ -104,17 +104,9 @@ details > summary::-webkit-details-marker {
   
   <p>    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>
 
-
  
 <details>  
-<summary class="btn btn-outline-primary my-1 mr-1 btn-sm" >  abstract  </summary> 
-<br/>
-test PDF LINK  
-</details>
-  
-  
-<details>  
-<summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary> 
+<summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary>  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>
 <br/>
 test PDF LINK  
 </details>
