@@ -98,22 +98,13 @@ details > summary::-webkit-details-marker {
   "&#8203;&#8203;&#8203;Linguistic Assimilation Does Not Reduce Discrimination Against Immigrants: Evidence from Germany"</a>.
   Forthcoming at <em>Journal of Experimental Political Science</em>.
   
-  <p>    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a> </p>
+<p>    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a> </p>
 
-<p> 
-  <details>  
+<details>  
   <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary>  
   <br/>
   test PDF LINK  
-  </details>
-
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a> 
-</p>
-
-<div style="display: inline-block;">  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>  </div>
-<div style="display: inline-block;"> <details> <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary> <br/>  test PDF LINK  </details> </div>
-
-
+</details>
 
 </div>
 
