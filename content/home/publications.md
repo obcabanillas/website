@@ -89,20 +89,16 @@ subtitle = ""
   Forthcoming at <em>Journal of Experimental Political Science</em>.
   
   <p>    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>
-         <summary><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener"> 
-           PDF </a></summary>
+          <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener"> </a>
 
 </div>
 
 
 
 <details>
-<summary> <strong strong style="color:royalblue"> Using Political Cues for Attitude Formation in Post-Conflict Contexts </strong> (Under review) <br/>
+<summary> <strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener"> </a> <br/>
 Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
 </summary>
 <br/>
-Citizens are often asked to evaluate peace agreements seeking to end civil conflicts, by voting on referendums or the negotiating leaders or, even when not voting, deciding whether to cooperate with the implementation of policies like combatant reintegration. In this paper, we assess how citizens form attitudes towards the provisions in peace agreements. These contexts tend to have high polarization, and citizens are asked to weigh in on complex policies, so we theorize that citizens will use cues from political elites with whom they have affinity, and, without these cues, information will have less effect. We assess our theory using survey experiments in Colombia. We find citizens rely on political elites' cues to form their opinion on a peace agreement's provisions, with the direction depending on the citizen's affinity with the political elites. Additional information about these policies has little effect. The paper suggests that even these high stakes decisions can be seen as politics as usual.
-  
-* [ESOC Working paper 19](https://esoc.princeton.edu/WP19)
-  
+test PDF LINK  
 </details>
