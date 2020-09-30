@@ -80,7 +80,6 @@ subtitle = ""
 
 <div class="row">
   </div>
-  <div class="col-12 col-lg-8">
   
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   <span class="article-metadata li-cite-author">  <span>Donghyun Danny Choi</span> , <span>Mathias Poertner</span>, <span>Nicholas Sambanis</span>  </span>
