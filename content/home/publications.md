@@ -128,10 +128,8 @@ details > summary::-webkit-details-marker {
 </table> 
 
 
-<div>
-    <p><details> <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary>  <br/>  test PDF LINK  </details></p>
-    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>  
-</div>
+<div style="display: inline-block;"> <details> <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary>  <br/>  test PDF LINK  </details></div>
+<div style="display: inline-block;">  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>  </div>
 
 
 </div>
