@@ -61,13 +61,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = "
- 
- details > summary::-webkit-details-marker {
-  display: none;
-}
-
-"
+ css_style = "summary::-webkit-details-marker { display: none; }"
  
  # CSS class.
  css_class = ""
