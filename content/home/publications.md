@@ -110,28 +110,10 @@ details > summary::-webkit-details-marker {
   <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a> 
 </p>
 
-##
-
-<table>
-    <tr>
-        <th scope="col">
-          <details>  
-            <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary>  
-            <br/>
-            test PDF LINK  
-          </details>
-        </th>
-        <th scope="col">
-          <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a> 
-      </th>
-    </tr>
-</table> 
-
-
-<div style="display: inline-block;"> <details> <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary> </div>
 <div style="display: inline-block;">  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>  </div>
+<div style="display: inline-block;"> <details> <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary> <br/>  test PDF LINK  </details> </div>
 
-<br/>  test PDF LINK  </details>
+
 
 </div>
 
