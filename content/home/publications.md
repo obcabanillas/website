@@ -89,16 +89,17 @@ subtitle = ""
   Forthcoming at <em>Journal of Experimental Political Science</em>.
   
   <p>    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>
-          <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener"> </a>
+
+
+<details>
+<summary> <strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener"> abstract </a> <br/>
+</summary>
+<br/>
+test PDF LINK  
+</details>
+
 
 </div>
 
 
 
-<details>
-<summary> <strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener"> </a> <br/>
-Natalia Garbiras-Díaz, Miguel García-Sánchez and Aila M. Matanock <br/>
-</summary>
-<br/>
-test PDF LINK  
-</details>
