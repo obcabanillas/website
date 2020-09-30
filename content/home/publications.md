@@ -111,6 +111,12 @@ details > summary::-webkit-details-marker {
 test PDF LINK  
 </details>
 
+<summary> <strong strong style="color:royalblue"> <a class="btn btn-outline-primary my-1 mr-1 btn-sm"  target="_blank" rel="noopener"> abstract </a> <br/>
+</summary>
+<br/>
+test PDF LINK  
+</details>
+
 
 </div>
 
