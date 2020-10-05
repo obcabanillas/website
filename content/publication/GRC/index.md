@@ -33,12 +33,10 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-name: "Development Impact Blog"
-#url: "https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-model"
 url_pdf: https://www.stata-journal.com/article.html?article=st0517
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-model'
 url_project: ''
 url_slides: ''
 url_source: ''
