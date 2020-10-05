@@ -1,8 +1,8 @@
 ---
-title: "A Group Random Coefficient Approach to Modeling Heterogeneity in Technology Adoption."
+title: "Fitting and interpreting correlated random coefficient (CRC) models using Stata."
 authors:
 - admin
-- Tjernstrom, Ghanem, Lybbert, Michler, Michuda
+- Tjernstrom, Michler, Michuda
 author_notes:
 - ""
 - ""
@@ -10,7 +10,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,10 +22,9 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Our paper revisits the econometric model that Suri (2011) (S2011) used in her study of heterogeneous returns to agricultural technology adoption. We propose an alternative group random coefficient (GRC) estimation strategy and revisit the empirical puzzle of why relatively few sub-Saharan farmers adopt modern technologies. Drawing on recent developments in the nonparametric panel identification literature, we start with an unrestricted GRC model that nonparametrically identifies the returns to adoption under time homogeneity. We show that the parameters of the S2011 correlated random coefficient model (CRC) can be identified from a restricted version of the GRC method. Specifically, the model in S2011 implies a key restriction that we call linearity in comparative advantage (LCA). Our unrestricted GRC model can be used to detect identification concerns for key structural parameters from the CRC model. We illustrate our method using the same data set as the original study and find that the motivating empirical puzzle remains unsolved. 
-
+abstract: 
 # Summary. An optional shortened abstract.
-summary: Our paper revisits the econometric model that Suri (2011) (S2011) used in her study of heterogeneous returns to agricultural technology adoption. We propose an alternative group random coefficient (GRC) estimation strategy and revisit the empirical puzzle of why relatively few sub-Saharan farmers adopt modern technologies. Drawing on recent developments in the nonparametric panel identification literature, we start with an unrestricted GRC model that nonparametrically identifies the returns to adoption under time homogeneity. We show that the parameters of the S2011 correlated random coefficient model (CRC) can be identified from a restricted version of the GRC method. Specifically, the model in S2011 implies a key restriction that we call linearity in comparative advantage (LCA). Our unrestricted GRC model can be used to detect identification concerns for key structural parameters from the CRC model. We illustrate our method using the same data set as the original study and find that the motivating empirical puzzle remains unsolved. 
+summary:  
 
 tags:
 - Source Themes
@@ -34,8 +33,10 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://emiliatjernstrom.com/files/TGBLMM2020.pdf
-url_code: ''
+url_pdf: https://www.stata-journal.com/article.html?article=st0517
+- name: "Development Impact Blog"
+  url: https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-model
+ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
