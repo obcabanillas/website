@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Working papers"
+title = "Working Papers"
 subtitle = ""
 
 # Date format
@@ -44,8 +44,6 @@ details > summary::-webkit-details-marker {
 </head>
 <body>
 
-
-
 <div class="row">
   </div>
   
@@ -72,17 +70,14 @@ details > summary::-webkit-details-marker {
   </div>
   
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="">
-  "&#8203;&#8203;&#8203;A Group Random Coefficient Approach to Modeling Heterogeneity in Technology Adoption"</a>.
+  <p><a href="">  "A Group Random Coefficient Approach to Modeling Heterogeneity in Technology Adoption"</a>.</p>
   <span class="article-metadata li-cite-author">  <span>With Tjernstrom, Ghanem, Lybbert, Michler, Michuda</span> </span>
-  
   <p>    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a> </p>
   
   <details>  
   <summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary>  
   <br/>
   Our paper revisits the econometric model that Suri (2011) (S2011) used in her study of heterogeneous returns to agricultural technology adoption. We propose an alternative group random coefficient (GRC) estimation strategy and revisit the empirical puzzle of why relatively few sub-Saharan farmers adopt modern technologies. Drawing on recent developments in the nonparametric panel identification literature, we start with an unrestricted GRC model that nonparametrically identifies the returns to adoption under time homogeneity. We show that the parameters of the S2011 correlated random coefficient model (CRC) can be identified from a restricted version of the GRC method. Specifically, the model in S2011 implies a key restriction that we call linearity in comparative advantage (LCA). Our unrestricted GRC model can be used to detect identification concerns for key structural parameters from the CRC model. We illustrate our method using the same data set as the original study and find that the motivating empirical puzzle remains unsolved.
- 
 </details>
 
 </div>
