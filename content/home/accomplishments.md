@@ -51,8 +51,123 @@ date_format = "Jan 2006"
 
 </div>
 
+<body class="fixed-top-nav sticky-bottom-footer">
 
-<div id="fbr2020" class="col-sm-8">
+    <!-- Header -->
+
+    <header>
+
+    <!-- Nav Bar -->
+    <nav id="navbar" class="navbar navbar-light bg-white navbar-expand-sm fixed-top">
+    <div class="container">
+      
+      
+      
+      
+      
+      <a class="navbar-brand title font-weight-lighter" href="//www.matthewolckers.com/">
+       <span class="font-weight-bold">Matthew</span>   Olckers
+      </a>
+      
+      <!-- Navbar Toogle -->
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <!-- About -->
+          <!-- <li class="nav-item ">
+            <a class="nav-link" href="/">
+              about
+              
+            </a>
+          </li> -->
+          <!-- CV link -->
+          <li class="nav-item">
+            <a class="nav-link" href="//www.matthewolckers.com/CV.pdf">
+            cv
+            </a>
+          </li>
+          
+          <!-- Other pages -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item active">
+              <a class="nav-link" href="/publications/">
+                publications
+                
+                <span class="sr-only">(current)</span>
+                
+              </a>
+          </li>
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/research/">
+                working papers
+                
+              </a>
+          </li>
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/links/">
+                links
+                
+              </a>
+          </li>
+          
+          
+          <!-- External blog link -->
+          <li class="nav-item">
+            <a class="nav-link" href="https://blog.matthewolckers.com">
+            blog
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+
+    <!-- Content -->
+
+    <div class="container mt-5">
+      <div class="post">
+
+  
+
+  <article>
+    <div class="publications">
+
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge"><a href="https://www.aeaweb.org/articles?id=10.1257/mic.20190333" target="_blank">AEJ Micro</a></abbr>
+    
+  
+  </div>
+
+  <div id="fbr2020" class="col-sm-8">
     
       <span class="title"><a href="https://www.aeaweb.org/articles?id=10.1257/mic.20190333" target="_blank">Friend-Based Ranking</a></span>
       <span class="author">
@@ -111,3 +226,155 @@ date_format = "Jan 2006"
     </span>
     
   </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge"><a href="https://rdcu.be/bgJQs" target="_blank">ROIW</a></abbr>
+    
+  
+  </div>
+
+  <div id="fourlevers2018" class="col-sm-8">
+    
+      <span class="title"><a href="https://rdcu.be/bgJQs" target="_blank">Four Levers of Redistribution: The Impact of Tax and Transfer Systems on Inequality Reduction</a></span>
+      <span class="author">
+        
+          
+            
+              
+                
+                  <a href="https://sites.google.com/site/elvireguillaud/" target="_blank">Guillaud, Elvire</a>,
+                
+              
+            
+          
+        
+          
+            
+              
+                <em>Olckers, Matthew</em>,
+              
+            
+          
+        
+          
+            
+              
+                
+                  and <a href="https://sites.google.com/site/mzemmour/home" target="_blank">Zemmour, Michael</a>
+                
+              
+            
+          
+        
+      </span>
+
+      <span class="periodical">
+      
+        <em>Review of Income and Wealth</em>
+      
+      
+        2020
+      
+      </span>
+    
+
+    <span class="links">
+    
+      [<a class="abstract">Abstract</a>]
+    
+    
+    
+    
+    
+    
+    
+    
+      [<a href="https://github.com/matthewolckers/lis-tax-transfer" target="_blank">Code</a>]
+    
+    </span>
+
+    <!-- Hidden abstract block -->
+    
+    <span class="abstract hidden">
+      <p>We use harmonized survey data from the Luxembourg Income Study to assess the redistributive impact of taxes and transfers across 22 OECD countries over the 1999-2016 period. After imputing missing tax data (employer social-security contributions), we measure the reduction in income inequality from four key levers of tax and transfer systems: the average tax rate, tax progressivity, the average transfer rate, and transfer targeting. Our methodological improvements produce the following results. First, tax redistribution dominates transfer redistribution (excluding pensions) in most countries. Second, targeting explains very little of the cross-country variation in inequality reduction. In contrast, both tax progressivity and the average tax rate have large impacts on redistribution. Last, there seem to be political tradeoffs: high average tax rates are not found together with highly progressive tax systems.</p>
+    </span>
+    
+  </div>
+</div>
+</li></ol>
+
+
+</div>
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->
+
+    
+<footer class="sticky-bottom mt-5">
+  <div class="container">
+    © Copyright 2020 Matthew Olckers.
+    Economist by day; graffiti nerd by night.
+
+    
+  </div>
+</footer>
+
+
+
+  
+
+  <!-- Load Core and Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.0/umd/popper.min.js" integrity="sha256-OH05DFHUWzr725HmuHo3pnuvUUn+TJuj8/Qz9xytFEw=" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.17.0/js/mdb.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+<!-- Code Syntax Highlighting -->
+<link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/github.css">
+
+
+<!-- Load KaTeX -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.css" integrity="sha256-V8SV2MO1FUb63Bwht5Wx9x6PVHNa02gv8BgH/uH3ung=" crossorigin="anonymous">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.js" integrity="sha256-F/Xda58SPdcUCr+xhSGz9MA2zQBPb0ASEYKohl8UCHc=" crossorigin="anonymous"></script>
+<script src="/assets/js/katex.js"></script>
+
+
+
+<!-- Load Mansory & imagesLoaded -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
+<!-- Project Cards Layout -->
+<script type="text/javascript">
+  // Init Masonry
+  var $grid = $('.grid').masonry({
+    gutter: 10,
+    horizontalOrder: true,
+    itemSelector: '.grid-item',
+  });
+  // layout Masonry after each image loads
+  $grid.imagesLoaded().progress( function() {
+    $grid.masonry('layout');
+  });
+</script>
+
+
+
+
+
+
+
+
+</body>
