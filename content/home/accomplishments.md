@@ -44,12 +44,12 @@ details > summary::-webkit-details-marker {
 <body>
 
 <div class="row">
-  <p>
+</div>
+
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   "A Group Random Coefficient Approach to Modeling Heterogeneity in Technology Adoption".<br>
   <span class="article-metadata li-cite-author">  <span>With Tjernstrom, Ghanem, Lybbert, Michler, Michuda</span> </span> 
   <br>
-  </p>
  
 
   <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a> </div>
