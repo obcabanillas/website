@@ -50,3 +50,64 @@ date_format = "Jan 2006"
   <p>    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/cw20dnh92bh38gh/CPS_JEPS.pdf?dl=0" target="_blank" rel="noopener">  PDF </a>
 
 </div>
+
+
+<div id="fbr2020" class="col-sm-8">
+    
+      <span class="title"><a href="https://www.aeaweb.org/articles?id=10.1257/mic.20190333" target="_blank">Friend-Based Ranking</a></span>
+      <span class="author">
+        
+          
+            
+              
+                
+                  <a href="https://www.sites.google.com/site/francisbloch1/home" target="_blank">Bloch, Francis</a>,
+                
+              
+            
+          
+        
+          
+            
+              
+                and <em>Olckers, Matthew</em>
+              
+            
+          
+        
+      </span>
+
+      <span class="periodical">
+      
+        <em>American Economic Journal: Microeconomics</em>
+      
+      
+        2020
+      
+      </span>
+    
+
+    <span class="links">
+    
+      [<a class="abstract">Abstract</a>]
+    
+    
+      [<a href="http://arxiv.org/abs/1807.05093" target="_blank">arXiv</a>]
+    
+    
+    
+    
+    
+    
+    
+      [<a href="https://github.com/matthewolckers/fbr2020" target="_blank">Code</a>]
+    
+    </span>
+
+    <!-- Hidden abstract block -->
+    
+    <span class="abstract hidden open">
+      <p>We analyze the design of a mechanism to extract a ranking of individuals according to a unidimensional characteristic, such as ability or need. Individuals, connected on a social network, only have local information about the ranking. We show that a planner can construct an ex post incentive compatible and efficient mechanism if and only if every pair of friends has a friend in common. We characterize the windmill network as the sparsest social network for which the planner can always construct a complete ranking.</p>
+    </span>
+    
+  </div>
