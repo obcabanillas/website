@@ -80,7 +80,7 @@ user_groups:
 
 I am a Ph.D. candidate in the Department of Agriculture and Resource Economics at the University of California, Davis.
 
-My research combines high-frequency data with traditional household surveys to understand the daily financial lives of the poor. I also explore how Big Data can be use to identify and target vulnerable households,and its limitations.
+My research combines high-frequency data with traditional household surveys to understand the daily financial lives of the poor. I also explore how Big Data can be use to identify and target vulnerable households, and its limitations.
 
 
 In my Job Market Paper, I identify heterogeneous responses to a digital credit product that finances cellphone expenditure. I find poorer customers are able to relax binding liquidity constraints, whereas non-poor customers demand loans for their convenience.  
@@ -88,8 +88,7 @@ In my Job Market Paper, I identify heterogeneous responses to a digital credit p
 
 <table>
   <tr>
-    <td><img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> </td>
-    <td>Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumÃ©</td> 
+    <img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé 
     
   </tr>
 </table>
