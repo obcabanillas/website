@@ -43,7 +43,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 name: "Blog"
-url: https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-models
+url: blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-models_TEST
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
