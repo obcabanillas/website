@@ -89,7 +89,7 @@ In my Job Market Paper, I identify heterogeneous responses to a digital credit p
 <table>
   <tr>
     <td><img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> </td>
-    <td>Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé</td> 
+    <td>Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé</a></td> 
     
   </tr>
 </table>
@@ -100,7 +100,7 @@ In my Job Market Paper, I identify heterogeneous responses to a digital credit p
     
 </div>
 
-<div>
+<div class="row">
     <span> <img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé</a></span> 
     
 </div>
