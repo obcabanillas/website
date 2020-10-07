@@ -88,8 +88,19 @@ In my Job Market Paper, I identify heterogeneous responses to a digital credit p
 
 <table>
   <tr>
-    <img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resum� 
+    <td><img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> </td>
+    <td>Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé</td> 
     
   </tr>
 </table>
 
+
+<div>
+    <p> <img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé</p> 
+    
+</div>
+
+<div>
+    <span> <img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé</span> 
+    
+</div>
