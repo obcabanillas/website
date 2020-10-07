@@ -80,13 +80,12 @@ user_groups:
 
 I am a Ph.D. candidate in the Department of Agriculture and Resource Economics at the University of California, Davis.
 
-My research combine high frequency administrative data with traditional household surveys to explore the daily financial lives of the poor. 
+My research combines high frequency administrative data with traditional household surveys to explore the daily financial lives of the poor. 
 
-In my Job Market Paper, I exploit cellphone transactions to identify heterogeneous responses to access a digital credit product that finances cellphone expenditure.  I find evidence there are distinct motivations for credit demand: Poorer customers appear to use loans to relax binding liquidity constraints that make their income highly sensitive to the timing of their income, whereas non-poor customers primarily use these loans for convenience, as it gives them more discretion when to visit vendors.  As digital credit products expand, my research provides evidence that easy access to credit induces demand that does not respond to unexpected shocks.
+In my Job Market Paper, I exploit cellphone transactions to identify heterogeneous responses to access a digital credit product that finances cellphone expenditure. I find evidence poorer customers use loans to relax binding liquidity constraints that make their income highly sensitive to the timing of their income. On the other hand, non-poor customers use these loans for convenience.  As digital credit products expand, this results shows easy access to credit induces demand that does not respond to unexpected shocks.
 
 My other paper study how we can use high frequency data to identify vulnerable households, and the how big data has limits when we try to target specific groups.
 
 
-
-<img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé</a>
+<span> <img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf target="_blank">resumé</a></span>
 
