@@ -11,7 +11,7 @@ title = "Teaching"
 subtitle = "University of California, Davis"
 
 # Order that this section will appear in.
-weight = 40
+weight = 50
 
 +++
 

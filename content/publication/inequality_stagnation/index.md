@@ -1,8 +1,8 @@
 ---
-title: "Fitting and interpreting correlated random coefficient (CRC) models using Stata."
+title: "Inequality Stagnation in Latin America in the Aftermath of the Global Financial Crisis"
 authors:
 - admin
-- Tjernstrom, Michler, Michuda
+- Cord, Lucchetti, Rodriguez-Castelan, Sousa, Valderrama
 author_notes:
 - ""
 - ""
@@ -33,15 +33,15 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.stata-journal.com/article.html?article=st0517
+url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1111/rode.12260'
 url_code: ''
 url_dataset: ''
-url_poster: 'https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-model'
-url_blog: 'https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-model'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

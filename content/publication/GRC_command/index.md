@@ -1,9 +1,8 @@
-
 ---
-title: "Can Call Detail Records Predict Household Food Security Outcomes? Evidence from an Impact Evaluation in Haiti?"
+title: "Fitting and interpreting correlated random coefficient (CRC) models using Stata."
 authors:
 - admin
-- Blumenstock, Lybbert, Putman
+- Tjernstrom, Michler, Michuda
 author_notes:
 - ""
 - ""
@@ -24,9 +23,8 @@ publication: ""
 publication_short: ""
 
 abstract: 
-
 # Summary. An optional shortened abstract.
-summary: 
+summary:  
 
 tags:
 - Source Themes
@@ -35,14 +33,16 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: https://www.stata-journal.com/article.html?article=st0517
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-models'
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+name: "Blog"
+url: 'https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-models'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -65,3 +65,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
