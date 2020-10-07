@@ -31,13 +31,13 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
+- name: "AAA"
+  url: "AASSS"
 url_pdf: https://www.stata-journal.com/article.html?article=st0517
 url_code: ''
 url_dataset: ''
 url_poster: https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-models
-url_blog: https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-models
+url_poster: https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-models
 url_project: ''
 url_slides: ''
 url_source: ''

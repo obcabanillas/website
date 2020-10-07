@@ -58,7 +58,7 @@ details > summary::-webkit-details-marker {
 </details>
 </div>  
 
-
+<br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   "Can Call Detail Records Predict Household Food Security Outcomes? Evidence from an Impact Evaluation in Haiti?".<br>
@@ -73,6 +73,7 @@ details > summary::-webkit-details-marker {
 </details>
 </div>
 
+<br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   "The Effects of Local Market Concentration and International Competition on Firm Productivity: Evidence from Mexico".<br>
