@@ -34,8 +34,8 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: PDF
+  url: {{% staticref "files/jmp_OscarBarrigaCabanillas.pdf" %}} PDF{{% /staticref %}}.
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '*Padapaps* can be found in every street cornet'
+  caption: '*Padapaps* can be found in every street corner'
   focal_point: ""
   preview_only: false
 

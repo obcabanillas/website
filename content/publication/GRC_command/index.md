@@ -37,7 +37,7 @@ featured: false
 url_pdf: https://www.stata-journal.com/article.html?article=st0517
 url_code: ''
 url_dataset: ''
-url_poster: https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-models
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -45,7 +45,7 @@ url_video: ''
 
 links:
 - name: "Blog"
-  url: 'https://twitter.com/Twitter'
+  url: https://blogs.worldbank.org/impactevaluations/stata-package-estimating-correlated-random-coefficient-models
   
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -76,6 +76,9 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+#{{% staticref "files/CV_OscarBarrigaCabanillas.pdf" %}} Download my CV{{% /staticref %}}.
+
 ---
 
 I am a Ph.D. candidate in the Department of Agriculture and Resource Economics at the University of California, Davis.
@@ -85,7 +88,7 @@ In my Job Market Paper, I identify heterogeneous responses to a digital credit p
 
 My research combines high-frequency data with traditional household surveys to understand the daily financial lives of the poor. I also explore how Big Data can be used to identify and target vulnerable households, and its limitations.
 
-{{% staticref "files/CV_OscarBarrigaCabanillas.pdf" %}} Download my CV{{% /staticref %}}.
+
 
 <div class="row">
 	<div class="column">
