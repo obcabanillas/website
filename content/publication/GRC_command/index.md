@@ -33,8 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-- name: "Blog"
-  url: 'https://twitter.com/Twitter'
+
 url_pdf: https://www.stata-journal.com/article.html?article=st0517
 url_code: ''
 url_dataset: ''
@@ -44,7 +43,10 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-
+links:
+- name: "Blog"
+  url: 'https://twitter.com/Twitter'
+  
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
