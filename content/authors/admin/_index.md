@@ -84,7 +84,7 @@ user_groups:
 I am a Ph.D. candidate in the Department of Agriculture and Resource Economics at the University of California, Davis.
 
 
-In my Job Market Paper, I identify heterogeneous responses to a digital credit product that finances cellphone expenditure. I find poorer customers are able to relax binding liquidity constraints, whereas non-poor customers demand loans for their convenience.  
+In my Job Market Paper, I identify heterogeneous responses to a digital credit product that finances cellphone expenditure. I find poorer customers are able to relax binding liquidity constraints, whereas non-poor customers demand loans for their convenience and not for pressing liquidity needs. 
 
 My research combines high-frequency data with traditional household surveys to understand the daily financial lives of the poor. I also explore how Big Data can be used to identify and target vulnerable households, and its limitations.
 
