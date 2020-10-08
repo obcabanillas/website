@@ -34,7 +34,7 @@ tags:
 featured: true
 
 links:
-- name: PDF
+- name: "PDF"
   url: {{% staticref "files/jmp_OscarBarrigaCabanillas.pdf" %}} PDF{{% /staticref %}}.
 url_pdf: ''
 url_code: ''
