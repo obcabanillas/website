@@ -36,7 +36,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: /static/jmp_OscarBarrigaCabanillas.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

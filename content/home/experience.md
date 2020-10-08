@@ -27,9 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing data and poverty household data for the Latin American region
+  * Analysing household surveys for the Latin American region
   * Modelling trends of socioeconomic indicators
-  * Deploying a system for data quality and replicability of indicators
+  * Programming a Stata interface to keep version control and guarantee transparency and reproducibility of indicators
+ 
   """
 
 [[experience]]
@@ -39,6 +40,6 @@ date_format = "Jan 2006"
   location = "Colombia"
   date_start = "2011-01-01"
   date_end = "2019-08-31"
-  description = """Developed an plan for the integration of Colombia's western plains with the national economy, identifying infrastructure constrains"""
+  description = """Economic study of the agricultural sector in Colombia's western plains"""
 
 +++

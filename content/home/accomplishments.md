@@ -61,7 +61,7 @@ details > summary::-webkit-details-marker {
 <br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  "Can Call Detail Records Predict Household Food Security Outcomes? Evidence from an Impact Evaluation in Haiti?".<br>
+  "Digital Breadcrumbs & Dietary Diversity: Can mobile phone metadata predict food security outcomes among rural Haitian households?".<br>
   <span class="article-metadata li-cite-author">  <span>With Blumenstock, Lybbert, Putman</span> </span> 
   
   <div class="btn-links">
