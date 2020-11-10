@@ -33,5 +33,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    url = "https://arefiles.ucdavis.edu/uploads/filer_public/fb/fc/fbfcef14-f632-42b0-b2ce-cbbcd100e91c/cv_oscarbarrigacabanillas.pdf"
+    url = "https://arefiles.ucdavis.edu/uploads/filer_public/1e/57/1e57d37a-8217-4f6a-ad20-089895420473/cv_oscar_barriga_cabanillas.pdf"
     weight = 70
