@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Colombia"
   date_start = "2011-01-01"
-  date_end = "2019-08-31"
+  date_end = "2012-08-31"
   description = """Economic study of the agricultural sector in Colombia's western plains"""
 
 +++
