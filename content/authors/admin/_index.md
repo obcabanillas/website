@@ -86,15 +86,15 @@ I am a Ph.D. candidate in the Department of Agriculture and Resource Economics a
 
 In my Job Market Paper, I identify heterogeneous responses to a digital credit product that finances cellphone expenditure. I find poorer customers are able to relax binding liquidity constraints, whereas non-poor customers demand loans for their convenience and not for pressing liquidity needs. 
 
-My research combines high-frequency data with traditional household surveys to understand the daily financial lives of the poor. I also explore how Big Data can be used to identify and target vulnerable households, and its limitations.
+My research combines high-frequency data with traditional household surveys to understand the daily financial lives of the poor. I also explore how big data can be used to identify and target vulnerable households, and its limitations.
 
 
 
-<div class="row">
-	<div class="column">
-		<img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> 
-	</div>
-	<div class="column">
-	  Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/1e/57/1e57d37a-8217-4f6a-ad20-089895420473/cv_oscar_barriga_cabanillas.pdf target="_blank">resumé</a> 
-    </div>
-</div>
+#<div class="row">
+#	<div class="column">
+#		<img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> 
+#	</div>
+#	<div class="column">
+#	  Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/1e/57/1e57d37a-8217-4f6a-ad20-089895420473/cv_oscar_barriga_cabanillas.pdf target="_blank">resumé</a> 
+#    </div>
+#</div>
