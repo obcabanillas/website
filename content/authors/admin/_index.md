@@ -90,11 +90,3 @@ My research combines high-frequency data with traditional household surveys to u
 
 
 
-#<div class="row">
-#	<div class="column">
-#		<img src=https://arefiles.ucdavis.edu/uploads/filer_public/64/03/64036e59-4a1d-47f1-90cc-6982f252551e/download_icon.png alt="" width="24" height="24"> 
-#	</div>
-#	<div class="column">
-#	  Download my <a href=https://arefiles.ucdavis.edu/uploads/filer_public/1e/57/1e57d37a-8217-4f6a-ad20-089895420473/cv_oscar_barriga_cabanillas.pdf target="_blank">resumé</a> 
-#    </div>
-#</div>
