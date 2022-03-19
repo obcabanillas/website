@@ -10,26 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. candidate
+role: Extended Term Consultant 
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Davis
+- name: The World Bank
   url: ""
+
+# # Role/position
+# role: Ph.D. candidate
+
+# # Organizations/Affiliations
+# organizations:
+# - name: University of California, Davis
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 
 
 interests:
 - Development Economics
-- Poverty and inequality, with an emphasis on remote sensing
+- Remote sensing for evaluation public programs 
+- Digital Economy
+- Urban development
 
 
 education:
   courses:
-  - course: PhD candidate in Agriculture and Resource Economics
+  - course: Ph.D. in Agriculture and Resource Economics
     institution: University of California, Davis
-    year: 2021 (expected)
+    year: 2021 
   - course: MA in Economics
     institution: Universidad de los Andes, Bogota, Colombia
     year: 2012
@@ -81,12 +91,15 @@ user_groups:
 
 ---
 
-I am a Ph.D. candidate in the Department of Agriculture and Resource Economics at the University of California, Davis.
+
+I am a consultant at the World Bank working on the Poverty Unit for West Africa. I focus on understanding how we can leverage data to target social programs, the impact digital technologies in facilitating financial inclusion and participation in the labor market, and the role public policy plays at reducing poverty and inequality. For this, I combine non-traditional information, such as cellphone detail records and satellite data, with household surveys and census records.  
 
 
+Prior to my career at the World Bank, I received a Ph.D. candidate in the Department of Agriculture and Resource Economics at the University of California, Davis.
+
+<!-- 
 In my Job Market Paper, I identify heterogeneous responses to a digital credit product that finances cellphone expenditure. I find poorer customers are able to relax binding liquidity constraints, whereas non-poor customers demand loans for their convenience and not for pressing liquidity needs. 
-
-My research combines high-frequency data with traditional household surveys to understand the daily financial lives of the poor. I also explore how big data can be used to identify and target vulnerable households, and its limitations.
+My research combines high-frequency data with traditional household surveys to understand the daily financial lives of the poor. I also explore how big data can be used to identify and target vulnerable households, and its limitations. -->
 
 
 
