@@ -32,7 +32,7 @@ interests:
 - Development Economics
 - Remote sensing for the evaluation of public programs 
 - Financial inclusion 
-- GIG economy
+- Impacts of the GIG economy
 - Urban development
 
 
