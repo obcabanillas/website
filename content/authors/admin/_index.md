@@ -30,8 +30,9 @@ bio: My research interests include
 
 interests:
 - Development Economics
-- Remote sensing for evaluation public programs 
-- Digital Economy
+- Remote sensing for the evaluation of public programs 
+- Financial inclusion 
+- GIG economy
 - Urban development
 
 
@@ -95,7 +96,7 @@ user_groups:
 I am a consultant at the World Bank working on the Poverty Unit for West Africa. I focus on understanding how we can leverage data to target social programs, the impact digital technologies in facilitating financial inclusion and participation in the labor market, and the role public policy plays at reducing poverty and inequality. For this, I combine non-traditional information, such as cellphone detail records and satellite data, with household surveys and census records.  
 
 
-Prior to my career at the World Bank, I received a Ph.D. candidate in the Department of Agriculture and Resource Economics at the University of California, Davis.
+Prior to my career at the World Bank, I received a Ph.D. in Agriculture and Resource Economics from the University of California, Davis.
 
 <!-- 
 In my Job Market Paper, I identify heterogeneous responses to a digital credit product that finances cellphone expenditure. I find poorer customers are able to relax binding liquidity constraints, whereas non-poor customers demand loans for their convenience and not for pressing liquidity needs. 
