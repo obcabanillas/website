@@ -22,13 +22,13 @@
 [[main]]
   name = "Working papers"
   url = "#working_paper"
-  weight = 30
+  weight = 40
 
 
 [[main]]
   name = "Policy Work"
   url = "#Policy_work"
-  weight = 30
+  weight = 50
 
 
 #[[main]]
