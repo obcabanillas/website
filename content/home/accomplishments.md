@@ -12,21 +12,7 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-#[[item]]
-#  organization = "Coursera"
-#  organization_url = "https://www.coursera.org"
-#  title = "Neural Networks and Deep Learning"
-#  url = ""
-#  certificate_url = "https://www.coursera.org"
-#  date_start = "2018-10-01"
-#  date_end = ""
-#  description = ""
 
 #<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="" target="_blank" rel="noopener">  PDF </a> 
 +++
@@ -45,11 +31,9 @@ details > summary::-webkit-details-marker {
 
 <div class="row">
 </div>
-# Published
 
-# https://dl.acm.org/doi/abs/10.1145/3674829.3675061
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  "Probing the limits of mobile phone metadata for poverty prediction and impact evaluation" (with Blumenstock, Lybbert, Putman), 2025, <u>Journal of Development Economics</u>.
+  <a href="https://dl.acm.org/doi/abs/10.1145/3674829.3675061">"Probing the limits of mobile phone metadata for poverty prediction and impact evaluation"</a> (with Blumenstock, Lybbert, Putman), 2025, <u>Journal of Development Economics</u>.
    </span> </span> 
 </div>
 <br>
