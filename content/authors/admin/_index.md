@@ -17,37 +17,6 @@ organizations:
 - name: The World Bank
   url: ""
 
-# # Role/position
-# role: Ph.D. candidate
-
-# # Organizations/Affiliations
-# organizations:
-# - name: University of California, Davis
-#   url: ""
-
-# Short bio (displayed in user profile at end of posts)
-#bio: My research interests include 
-
-#interests:
-#- Development Economics
-#- Remote sensing for the evaluation of public programs 
-##- Financial inclusion 
-#- Impacts of the GIG economy
-#- Urban development
-
-
-#education:
-#  courses:
-#  - course: Ph.D. in Agriculture and Resource Economics
-#    institution: University of California, Davis
-#    year: 2021 
-#  - course: MA in Economics
-#    institution: Universidad de los Andes, Bogota, Colombia
-#    year: 2012
-#  - course: BA in Economics
-#    institution: Universidad de los Andes, Bogota, Colombia
-#    year: 2010
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -108,6 +77,3 @@ Prior to my career at the World Bank, I received a Ph.D. in Agriculture and Reso
 <!-- 
 In my Job Market Paper, I identify heterogeneous responses to a digital credit product that finances cellphone expenditure. I find poorer customers are able to relax binding liquidity constraints, whereas non-poor customers demand loans for their convenience and not for pressing liquidity needs. 
 My research combines high-frequency data with traditional household surveys to understand the daily financial lives of the poor. I also explore how big data can be used to identify and target vulnerable households, and its limitations. -->
-
-
-

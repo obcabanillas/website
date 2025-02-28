@@ -39,7 +39,6 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    href="https://emiliatjernstrom.com/files/TGBLMM2020.pdf"
-	#url = "https://arefiles.ucdavis.edu/uploads/filer_public/1e/57/1e57d37a-8217-4f6a-ad20-089895420473/cv_oscar_barriga_cabanillas.pdf"
-	url = "files/CV_OBC.pdf"
+    #url = "https://arefiles.ucdavis.edu/uploads/filer_public/1e/57/1e57d37a-8217-4f6a-ad20-089895420473/cv_oscar_barriga_cabanillas.pdf"
+    url = "files/CV_OBC.pdf"
     weight = 70
