@@ -47,3 +47,6 @@ details > summary::-webkit-details-marker {
   <a href="https://www.sciencedirect.com/science/article/pii/S0305750X23000177"> "The Effects of Local Market Concentration and International Competition on Firm Productivity: Evidence from Mexico"</a>(with Rodriguez-Castelan, Lopez-Calva), 2023, <u>World Development</u>.   </span> </span> 
 <br>
 
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="http://onlinelibrary.wiley.com/doi/10.1111/rode.12260/abstract"> "Inequality Stagnation in Latin America in the Aftermath of the Global Financial Crisis."</a> (with Cord,Lucchetti, Sousa, and Valderrama), 2017, <u>Review of Development Economics</u>.   </span> </span> 
+<br>
