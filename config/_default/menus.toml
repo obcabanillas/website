@@ -8,20 +8,26 @@
   url = "#about"
   weight = 10
 
+#[[main]]
+#  name = "Job Market Paper"
+#  url = "#featured"
+#  weight = 20
+
 [[main]]
-  name = "Job Market Paper"
-  url = "#featured"
-  weight = 20
-  
+  name = "Publications"
+  url = "#accomplishments"
+  weight = 30
+
+
 [[main]]
   name = "Working papers"
   url = "#accomplishments"
   weight = 30
 
-[[main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 40
+#[[main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 40
 
 
 #[[main]]

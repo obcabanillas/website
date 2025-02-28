@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Extended Term Consultant 
+role: Economist
 
 # Organizations/Affiliations
 organizations:
@@ -26,27 +26,27 @@ organizations:
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+#bio: My research interests include 
 
-interests:
-- Development Economics
-- Remote sensing for the evaluation of public programs 
-- Financial inclusion 
-- Impacts of the GIG economy
-- Urban development
+#interests:
+#- Development Economics
+#- Remote sensing for the evaluation of public programs 
+##- Financial inclusion 
+#- Impacts of the GIG economy
+#- Urban development
 
 
-education:
-  courses:
-  - course: Ph.D. in Agriculture and Resource Economics
-    institution: University of California, Davis
-    year: 2021 
-  - course: MA in Economics
-    institution: Universidad de los Andes, Bogota, Colombia
-    year: 2012
-  - course: BA in Economics
-    institution: Universidad de los Andes, Bogota, Colombia
-    year: 2010
+#education:
+#  courses:
+#  - course: Ph.D. in Agriculture and Resource Economics
+#    institution: University of California, Davis
+#    year: 2021 
+#  - course: MA in Economics
+#    institution: Universidad de los Andes, Bogota, Colombia
+#    year: 2012
+#  - course: BA in Economics
+#    institution: Universidad de los Andes, Bogota, Colombia
+#    year: 2010
 
 
 # Social/Academic Networking
@@ -54,9 +54,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:obarriga@ucdavis.edu".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:obarriga@ucdavis.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/obcabanillas
@@ -91,12 +91,19 @@ user_groups:
 #{{% staticref "files/CV_OscarBarrigaCabanillas.pdf" %}} Download my CV{{% /staticref %}}.
 
 ---
+I am an Economist at the World Bank based in DC, currently working in Afghanistan and Pakistan.
 
+I am passionate about tackling development challenges. I combine surveys with alternative data sources, such as satellite, mobile cellphone records, and high-frequency financial transaction data. So far, my work has concentrated on improving the targeting of social programs, reducing the cost of providing services to low-income households, and helping to reduce spatial inequalities: Always happy to brainstorm about how data can help to understand and solve problems! 
 
+My work concentrates on low—and middle-income communities in Latin America, Africa, and South Asia, as well as fragile and conflict-affected contexts such as Haiti and Afghanistan. 
+
+I hold a Ph.D. in Agricultural and Resource Economics from UC Davis and an MSc degree in Economics from Universidad de los Andes (Colombia).
+
+<!-- 
 I am a consultant at the World Bank working on the Poverty Unit for West Africa. I focus on understanding how we can leverage data to target social programs, the impact digital technologies in facilitating financial inclusion and participation in the labor market, and the role public policy plays at reducing poverty and inequality. For this, I combine non-traditional information, such as cellphone detail records and satellite data, with household surveys and census records.  
 
 
-Prior to my career at the World Bank, I received a Ph.D. in Agriculture and Resource Economics from the University of California, Davis.
+Prior to my career at the World Bank, I received a Ph.D. in Agriculture and Resource Economics from the University of California, Davis. -->
 
 <!-- 
 In my Job Market Paper, I identify heterogeneous responses to a digital credit product that finances cellphone expenditure. I find poorer customers are able to relax binding liquidity constraints, whereas non-poor customers demand loans for their convenience and not for pressing liquidity needs. 

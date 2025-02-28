@@ -45,48 +45,89 @@ details > summary::-webkit-details-marker {
 
 <div class="row">
 </div>
+# Published
+
+# https://dl.acm.org/doi/abs/10.1145/3674829.3675061
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  "Probing the limits of mobile phone metadata for poverty prediction and impact evaluation" (with Blumenstock, Lybbert, Putman), 2025, <u>Journal of Development Economics</u>.
+   </span> </span> 
+</div>
+<br>
+
+# https://dl.acm.org/doi/abs/10.1145/3674829.3675061
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  "Rapid poverty estimation using ready-to-use mobile phone data: An application to Côte d’Ivoire" (with Milusheva,Makhlouk, Zhang), 2024, <u>Proceedings of the 7th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies</u>.
+   </span> </span> 
+</div>
+<br>
+
+# https://www.sciencedirect.com/science/article/pii/S0305750X23000177
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  "The Effects of Local Market Concentration and International Competition on Firm Productivity: Evidence from Mexico" (with Rodriguez-Castelan, Lopez-Calva), 2023, <u>World Development</u>.   </span> </span> 
+</div>
+<br>
+
+
+
+#<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+#  "" (with ),  <u></u> </span> </span> 
+#</div>
+#<br>
+
+# Working papers 
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  "A Group Random Coefficient Approach to Modeling Heterogeneity in Technology Adoption".<br>
-  <span class="article-metadata li-cite-author">  <span>With Tjernstrom, Ghanem, Lybbert, Michler, Michuda</span> </span> 
-  
-  <div class="btn-links">
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://emiliatjernstrom.com/files/TGBLMM2020.pdf" target="_blank" rel="noopener">  PDF </a> 
-  <details><summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary> 
-  <br>
-  Our paper revisits the econometric model that Suri (2011) (S2011) used in her study of heterogeneous returns to agricultural technology adoption. We propose an alternative group random coefficient (GRC) estimation strategy and revisit the empirical puzzle of why relatively few sub-Saharan farmers adopt modern technologies. Drawing on recent developments in the nonparametric panel identification literature, we start with an unrestricted GRC model that nonparametrically identifies the returns to adoption under time homogeneity. We show that the parameters of the S2011 correlated random coefficient model (CRC) can be identified from a restricted version of the GRC method. Specifically, the model in S2011 implies a key restriction that we call linearity in comparative advantage (LCA). Our unrestricted GRC model can be used to detect identification concerns for key structural parameters from the CRC model. We illustrate our method using the same data set as the original study and find that the motivating empirical puzzle remains unsolved.
-</details>
+  "A Group Random Coefficient Approach to Modeling Heterogeneity in Technology Adoption." (with Tjernstrom, Ghanem, Lybbert, Michler, Michuda), <u>R/&R Econometrica</u> </span> </span> 
 </div>  
 
 <br>
 
+#https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4435034
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  "The potential and limitations of big data in development economics: The use of cell phone data for the targeting and impact evaluation of a cash transfer program in Haiti?".<br>
-  <span class="article-metadata li-cite-author">  <span>With Blumenstock, Lybbert, Putman</span> </span> 
-  
-  <div class="btn-links">
-  <details><summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary> 
-  <br>
-  
-  A series of recent papers demonstrate that mobile phone metadata, in conjunction with machine learning algorithms, can be used to estimate the wealth of individual subscribers, and to target resources to poor segments of society. This paper uses survey data from an emergency cash transfer program in Haiti, in combination with mobile phone data from potential beneficiaries, to explore whether similar methods can be used for impact evaluation. A conventional regression discontinuity-based impact evaluation using survey data shows positive impacts of cash transfers on household food security and dietary diversity. However, machine learning predictions of food security derived from mobile phone data do not show statistically significant effects; nor do the predictions accurately differentiate beneficiaries from non-beneficiaries at baseline. Our analysis suggests that the poor performance is likely due to the homogeneity of the study population; when the same algorithms are applied to a more diverse Haitian population, performance improves markedly. We conclude with a discussion of the implications and limitations for predicting welfare outcomes using big data in poor countries.	
+  "Genetic Dilution Erodes Productivity: Exploring Farmers' Low Adoption Levels of Improved Maize In Ethiopia." (with Michuda, Chiarella, Correa), <u></u> </span> </span> 
+</div>  
 
-</details>
+<br>
+
+
+
+# https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099256511062426629/idu1f7011ce815ecb1494d1a0e61042efed1a409
+
+# MEDIA COVERAGE: https://www.devdiscourse.com/article/business/3162278-illuminating-afghanistans-recovery-how-nighttime-lights-reveal-economic-resilience
+# BLOG : https://blogs.worldbank.org/en/endpovertyinsouthasia/afghanistan-s-economic-twilight--using-nighttime-lights-to-decod
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  "Afghanistan’s New Economic Landscape : Using Nighttime Lights to Understand the Civilian Economy after 2021." (with Teruggi, Kosmidou-Bradley, Redaelli, Tateishi), 2024, <u>World Bank Policy Working Paper No. 10969</u> </span> </span> 
+</div>  
+
+<br>
+
+# https://documents1.worldbank.org/curated/en/099439111272329963/pdf/IDU0ed4d6e61077f404936080040a13f92c09683.pdf
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  "Updating Poverty in Afghanistan Using the SWIFT-Plus Methodology." (with Chawla, Redaelli, Yoshida), 2024, <u>World Bank Policy Working Paper No. 10616</u> </span> </span> 
+</div>  
+
+<br>
+
+
+#https://openknowledge.worldbank.org/entities/publication/5832344c-4cc4-4914-a101-ee47005b24af
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  "Sustaining Poverty Gains: A Vulnerability Map to Guide the Expansion of Social Registries." (with Bossuroy, Corral, Castelan, Skoufias), 2024, <u>World Bank Policy Working Paper No. 10890</u> </span> </span> 
+</div>  
+
+<br>
+
+
+
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  "The potential and limitations of big data in development economics: The use of cell phone data for the targeting and impact evaluation of a cash transfer program in Haiti?"( with Blumenstock, Lybbert, Putman)</span> </span> 
+
 </div>
 
 <br>
 
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  "The Effects of Local Market Concentration and International Competition on Firm Productivity: Evidence from Mexico".<br>
-  <span class="article-metadata li-cite-author">  <span>With Rodriguez-Castelan, Lopez-Calva </span> </span> 
-  
-  <div class="btn-links">
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://elibrary.worldbank.org/doi/abs/10.1596/1813-9450-9210" target="_blank" rel="noopener">  PDF </a> 
-  <details><summary class="btn btn-outline-primary my-1 mr-1 btn-sm" display = "None">  abstract  </summary> 
-  <br>
-  Although market concentration is one of the main impediments to productivity growth globally, data constraints have limited its analysis to developed countries or cross-country studies based on definitions of market concentration across nations and industries. This paper takes advantage of a database that is unusual by developing-country standards by means of leveraging the richness of five rounds of the Mexican Manufacturing Census between 1994 and 2014. The data allow estimation of the effects of local industry concentration on productivity. The main results show that a decline by 10 points in the Herfindahl-Hirschman index (on a 0–100 scale), a measure of market concentration, explains an increase by 1 percent in the total factor productivity of revenue. Local industry concentration also has heterogeneous effects on productivity across industries, while its impact on productivity varies by level of exposure to international markets. The results here show that the effect of greater exposure to trade offsets and, in most cases, reverses the negative effects of local concentration on productivity. These results are robust to specifications based on the estimation of firm productivity using the panels of establishment data from the 2009 and 2014 rounds of the economic census, to controlling for a proxy of markups, and to the use of alternate indicators of local industry concentration.
 
-</details>
 
 </div>
-
 
