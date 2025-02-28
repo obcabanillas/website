@@ -15,13 +15,13 @@
 
 [[main]]
   name = "Publications"
-  url = "#accomplishments"
+  url = "#publication_list"
   weight = 30
 
 
 [[main]]
   name = "Working papers"
-  url = "#accomplishments"
+  url = "#working_paper"
   weight = 30
 
 #[[main]]
