@@ -60,11 +60,13 @@ user_groups:
 #{{% staticref "files/CV_OscarBarrigaCabanillas.pdf" %}} Download my CV{{% /staticref %}}.
 
 ---
-I am an Economist at the World Bank based in DC, currently working in Afghanistan and Pakistan.
+I am an Economist at the World Bank, based in DC, currently working in Afghanistan and Pakistan.
 
-I am passionate about tackling development challenges. I combine surveys with alternative data sources, such as satellite, mobile cellphone records, and high-frequency financial transaction data. So far, my work has concentrated on improving the targeting of social programs, reducing the cost of providing services to low-income households, and helping to reduce spatial inequalities: Always happy to brainstorm about how data can help to understand and solve problems! 
+I am passionate about tackling complex development challenges. My work concentrates on improving the targeting of social programs, reducing the cost of providing services to low-income households, and addressing spatial inequalities
 
-My work concentrates on low—and middle-income communities in Latin America, Africa, and South Asia, as well as fragile and conflict-affected contexts such as Haiti and Afghanistan. 
+I leverage innovative data sources—ranging from traditional surveys to satellite imagery, mobile phone records, and high-frequency transaction data. Always happy to brainstorm about how data can help to understand and solve problems! 
+
+My experience spans low—and middle-income countries in Latin America, Africa, and South Asia, as well as fragile and conflict-affected contexts such as Haiti and Afghanistan. 
 
 I hold a Ph.D. in Agricultural and Resource Economics from UC Davis and an MSc degree in Economics from Universidad de los Andes (Colombia).
 
