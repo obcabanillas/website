@@ -41,11 +41,11 @@ details > summary::-webkit-details-marker {
 
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-   <a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099256511062426629/idu1f7011ce815ecb1494d1a0e61042efed1a409"> "Afghanistan’s New Economic Landscape : Using Nighttime Lights to Understand the Civilian Economy after 2021."</a> (with Teruggi, Kosmidou-Bradley, Redaelli, Tateishi), 2024, <u>World Bank Policy Working Paper No. 10969.</u> <u>Revise and resubmit</u> </span> </span> 
+   <a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099256511062426629/idu1f7011ce815ecb1494d1a0e61042efed1a409"> "Afghanistan’s New Economic Landscape : Using Nighttime Lights to Understand the Civilian Economy after 2021."</a> (with Teruggi, Kosmidou-Bradley, Redaelli, Tateishi), 2024, <u>World Bank Policy Working Paper No. 10969.</u> </span> </span> 
 <br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-   <a href="https://documents1.worldbank.org/curated/en/099439111272329963/pdf/IDU0ed4d6e61077f404936080040a13f92c09683.pdf"> "Updating Poverty in Afghanistan Using the SWIFT-Plus Methodology."</a>(with Chawla, Redaelli, Yoshida), 2024, <u>World Bank Policy Working Paper No. 10616</u> </span> </span> 
+   <a href="https://documents1.worldbank.org/curated/en/099439111272329963/pdf/IDU0ed4d6e61077f404936080040a13f92c09683.pdf"> "Updating Poverty in Afghanistan Using the SWIFT-Plus Methodology."</a> (with Chawla, Redaelli, Yoshida), 2024, <u>World Bank Policy Working Paper No. 10616</u> </span> </span> 
 <br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>

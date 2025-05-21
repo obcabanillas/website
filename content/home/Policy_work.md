@@ -33,12 +33,16 @@ details > summary::-webkit-details-marker {
 </div>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-   <a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099062824080014031/p18110513804b20b7193451b09145c69159">"Evaluating Private Capital Mobilization Potential for Resilient Digital Connectivity: The Digital Quality Divide in Pakistan."</a> (with Bezzina,Khan,Ogbunude,Rossotto,and Meyer), World Bank Publications, Washington D.C., 2024 </span> </span> 
+   <a href="https://thedocs.worldbank.org/en/doc/975d25c52634db31c504a2c6bee44d22-0310012023/original/Afghanistan-Welfare-Monitoring-Survey-3.pdf"> "Afghanistan Welfare Monitoring Survey."</a> World Bank Publications, Washington D.C., 2024 </span> </span> 
+
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+   <a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099062824080014031/p18110513804b20b7193451b09145c69159">"Evaluating Private Capital Mobilization Potential for Resilient Digital Connectivity: The Digital Quality Divide in Pakistan."</a> (with Bezzina, Khan, Ogbunude, Rossotto,and Meyer), World Bank Publications, Washington D.C., 2024 </span> </span> 
 <br>
 
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-   <a href="https://www.worldbank.org/en/country/peru/publication/resurgir-fortalecidos-evaluacion-de-pobreza-y-equidad-en-el-peru"> "Vulnerability to Shocks and Climate Change in Peru (Chapter 4)."</a> (with Arteage, de la Fro Giuffra) <u>Rising Strong: Peru Poverty and Equity Assessment</u>, World Bank Publications, Washington D.C., 2023 </span> </span> 
+   <a href="https://www.worldbank.org/en/country/peru/publication/resurgir-fortalecidos-evaluacion-de-pobreza-y-equidad-en-el-peru"> "Vulnerability to Shocks and Climate Change in Peru (Chapter 4)."</a> (with Arteage, de la Flor Giuffra) <u>Rising Strong: Peru Poverty and Equity Assessment</u>, World Bank Publications, Washington D.C., 2023 </span> </span> 
 <br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
